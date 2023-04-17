@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "foodmine-course"
+    }
+  },
+  "defaultProject": "foodmine-course",
+  "cli": {
+    "analytics": "ade95c54-6f3b-4345-91dd-c34315db3c0c"
+  }
 }
